@@ -1,0 +1,121 @@
+Perf 2020
+Hugo
+Hugo foi um gestor que acompanhou e me orientou muito durante minha jornada este ano.
+Eu naturalmente, tendo o hábito de me debruçar em meio a vários projetos, sendo eles
+referentes ou não à meta individual, do time ou de outros times, Hugo conseguia manter
+o equilíbrio adequado às tarefas orientando alguns pontos, reajustando prazos e também
+tão importante quanto bloqueando outros.
+Este ano, sendo um ano atípico onde logo no início fomos forçados a entrar em quarentena,
+Hugo verificava regularmente não somente o andamento das atividades como também checava
+o estado de nossa saúde física e mental, procurando expor tudo de maneira totalmente aberta
+comentando como está sendo sua própria experiência em casa e no trabalho remoto.
+O fato de estarmos remoto facilita a falta de comunicação e interação. Pensando nisso combinamos
+um estilo de interação feita por meio de Dailies feitas no final da tarde onde era passado uma
+lista de atividades feitas e pendentes da semana no formato de checkbox alinhadas via chat ou call.
+A prática foi tão positiva que passei a utilizar este mesmo método nos meus projetos pessoais aos
+finais de semana e também, logo depois, passamos a agendar calls todas terças e quintas.
+No mais, Hugo é um gestor capaz de transmitir os objetivos com clareza, tomando, também, a
+iniciativa da decisão final em momentos de dúvida entre outros possíveis caminhos. Por fim, Hugo
+traz ia
+feedbacks de comportamento, performance e oratória em várias de minhas apresentações.
+Caio
+Caio é extremamente empolgado em inovar, não se contentando em entregar somente o que foi
+combinado.
+Admiro muito esse lado do Caio de exercitar e estimular nos outros esse processo de, em todas as
+etapas de um projeto (início, meio e fim), procurar entregar uma solução inovadora, inusitada e
+de alto impacto.
+Sempre muito animado e com profissionalismo noto o Caio constantemente buscando formas
+de impactar positivamente outros times e/ou departamentos com soluções e/ou produtos.
+Ideias já discutidas consigo contar inúmeras facilmente.
+Caio possui muita facilidade em aprender tecnologias novas e rapidamente entregar soluções
+funcionais a partir deles. Lembro dele aprendendo tecnologias diferentes
+para propósitos diversos. Seja C# para chatbot. Python/Java (SikuliX) para RPA.
+Python para ensino de programação. React e VueJs. Powershell. Nas plataformas cloud
+Azure e AWS. Não esquecendo o Golang sendo sua linguagem de maior domínio e mais evangeliza
+e incentiva outros a utilizarem.
+Nossas interações esse ano foram com muita sintonia onde nos dividimos para entregar dois projetos
+de forma rápida e funcional. O primeiro deles sendo o PingCheck que mostra para usuários conectados
+remotos uma análise de sua conexão através do ping em alguns endpoints do banco (citrix e vpns)
+e outros públicos. Outro projeto foi o RemoteReport onde nos dividimos em
+frontend e backend + ETL para entregar um portal web que mostra os usuários conectados através dos
+pontos de acesso disponíveis.
+Sergio
+Sérgio é extremamente empolgado com tecnologia buscando sempre se atualizar, a seguir e, também,
+questionar as melhores práticas existentes. Possui, também, muita bagagem técnica desempenhando
+as atividades de forma muito profissional e com alta performance.
+Sérgio não tem medo de testar novas alternativas, muito pelo contrário, em muitas de nossas conversas
+vejo ele constantemente questionando se não há formas melhores de otimizar uma tarefa já entregue.
+Seu gosto por práticas e tecnologias inovadoras é visível. Além disso, é interessante notar
+seu foco no longo prazo e principalmente na equipe. É possível perceber que toda decisão tomada
+possui um cuidado especial direcionado à equipe e outros possíveis contribuidores. As escolhas desde
+nomes de variáveis, classes, fluxo de git, testes unitários e até na escolha
+da plataforma de documentação demonstram sua constante preocupação com o time.
+Tivemos a chance de interagir bastante
+desde o projeto do Backup RDS (feito pelo Sergio) onde pude ver não somente a solução final da
+aplicação como também todas as outras ideias que vieram do processo de definição da arquitetura
+em nossos brainstorms.
+Por fim, agradeço toda ajuda do Sérgio como Solutions e Sysops em muitas de minhas iniciativas e
+tentativas iniciais na AWS. Ajudando no debug e permissionamento de Lambdas, Dynamo, IAM Roles,
+CloudWatch, S3 para Websites. E também na sugestão de novos serviços como Step Functions,
+Dynamodb
+Streams e no uso de Secret Keys.
+Andre
+Andre é empolgado em experimentar novas tecnologias, frameworks e também implementações
+na mão que visam simplicidade e objetividade.
+Dessa forma não se contentando em somente ver sua aplicação funcionando
+com sucesso, André também é curioso em procurar entender o funcionamento por trás das engines.
+A partir do contato com o André pude ver que possui facilidade com linguagens como Golang e Python,
+AWS, como também de APIs quando fez o processo de autenticação SSO comunicando com o Graph da
+Microsoft. Acredito que o André possui grande potencial e estou ansioso por mais interações em
+conjunto no futuro.
+Carlos
+Este ano foi muito desafiador em uma série de quesitos: trabalho, pessoal
+e faculdade. Estou muito satisfeito com minha performance ao procurar otimizar ao máximo
+o tempo das atividades dentro e fora do trabalho. O início do trabalho remoto me fez perceber que é
+possível sim encontrar conteúdos online de qualidade. Exemplos disso posso citar minhas duas metas
+pessoais de tirar a certificação de Solutions Architect Associate da AWS, o exame de proficiência
+do inglês (IELTS) sem contar a passagem na qualificação do mestrado.
+Sendo este meu segundo ano no banco, tive a oportunidade de, além de continuar tocando minhas
+atividades, trabalhar em equipe com os demais colaboradores
+em especial o Caio, Sérgio, Henrique e Paranhos onde trabalhei mais ou menos diretamente com
+cada um deles mas temos tido discussões regulares sobre programção, práticas e processos.
+E o feedback recebido deles e também pelas apresentações do Capacity e iCode foram muito positivas.
+O processo de geração do relatório de Capacity embora já bastante automatizado desde o início do ano
+ainda levava por volta de 7 dias e o processo de análise de thresholds, quem adicionar,
+criação/estilização/envio dos emails ainda eram manuais. Agora todo esse processo desde a coleta
+até a criação e envio de emais já se encontra totalmente automatizado para todo o escopo de
+monitoramento (onpremise e cloud) e enviados
+em 1 ou 2 dias diminuindo o tempo de exposição dos responsáveis com análises mais atualizadas.
+Melhorias importantes vão também para a automação da ferramenta de forecast (Prophet). Atualmente
+é processado do forecast por volta de 30mil métricas (partições de disco, cpu/mem de
+servidores/containeres e tempo de resposta de BTs) o que mesmo com o multiprocessing da VDI levava
+por volta de 5 dias para executar. Agora todo o processo foi portado para lambda totalmente
+parametrizável com análise de threshold e plots realizando o processamento em algumas horas e baixo
+custo. Vale lembrar que isso só foi possível após melhorias contínuas em nossas 3 engines
+principais: Atlas (apps), Capacity(alertas, emails) e Hubber (métricas).
+O sistema de geração de HostnamesADM, antes utilizando tecnologias como VBA e dividir recursos
+onpremise + azure (citrix R$1.600/mes), fora totalmente redesenhado para HostnamesGen utilizando
+tecnologias modernas serverless AWS com backend python e front em vuejs custando < $1 por mês.
+O portal do Capacity é implementado com objetivo de trazer cada vez mais insights aos usuários
+com visualizações, dados atualizados, indicações de alertas com atualizações diárias e sub-daily
+trazendo maior transparência sobre os dados. Por exemplo o relatório do licenciamento do netbackup
+é gerado a cada dia e informações importantes como comparações do volume realizado por client,
+estouros e bloqueios de janela são atualizadas automaticamente.
+O Capacity por transação de negócio também já é feita verificando-se a tendência de crescimento
+do tempo de resposta monitoradas pelo AppDynamics. Com a análise do tempo de resposta não é
+possível identificar da latência de um disco, rede ou cpu%,mem% com precisão mas trazemos a
+experiência do usuário na ponta a podemos alertar conforme variação no serviço. Outra análise
+feita é o acompanhamento do consumo de cpu%/mem% dos serviços do Digital. Um processo que se
+inicia no scrape do Prometheus do Digital, passando por filas baseada em Redis e inseridos
+numa base MongoDB para retenção de histórico e geração de relatório.
+Tiago Gomes
+Agradeço à toda interação realizada com o Tiago Gomes ao longo desse ano.
+Com um jeito todo animado e solícito sem faltar com profissionalismo me ajudou
+bastante ao longo do ano com competência e excelencia.
+Do que tive contato Tiago demonstra bastante domínio em sistemas operacionais Linux e Windows,
+como também de aplicações e arquitetura e um alto conhecimento em programação powershell e
+Ansible.
+Várias foram as atividades realizadas. Desde a coleta de todos os resources dos servidores windows,
+acesso e primeiros passos com o spacewalk, análise do servidor cluster de redis, coleta de todas
+as partições montadas em servidores windows indicando qual o tipo de formatação gpt ou mbr e por
+fim ajuda no scrape automatizado dos records de domínios dos servidores DNS.
